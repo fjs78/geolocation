@@ -5,6 +5,42 @@
                 "type": "Account",
                 "referenceId": "AccountRef1"
             },
+            "Name": "Prime Hotel",
+            "Location__Latitude__s": 25.769802,
+            "Location__Longitude__s": -80.133286
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Hilton",
+            "Location__Latitude__s": 25.769652,
+            "Location__Longitude__s": -80.132058
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Test Org",
+            "Location__Latitude__s": 26.1094543,
+            "Location__Longitude__s": -80.1739745
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Name": "Marriott Stanton South Beach",
+            "Location__Latitude__s": 25.770388,
+            "Location__Longitude__s": -80.132282
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef5"
+            },
             "Name": "ABC Inc",
             "Location__Latitude__s": 25.9029782,
             "Location__Longitude__s": -80.3602968

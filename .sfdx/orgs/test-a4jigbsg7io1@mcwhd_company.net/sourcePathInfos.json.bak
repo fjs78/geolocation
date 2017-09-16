@@ -32,14 +32,14 @@
     [
         "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 340,
             "modifiedTime": 1505535645000,
             "changeTime": 1505535645000,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 170,
-            "modifiedTime": 1505534792000,
-            "changeTime": 1505534792000,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
+            "size": 238,
+            "modifiedTime": 1505535675000,
+            "changeTime": 1505535675000,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -868,10 +868,10 @@
         {
             "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 182,
-            "modifiedTime": 1505534856000,
-            "changeTime": 1505534856000,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
+            "size": 206,
+            "modifiedTime": 1505535722000,
+            "changeTime": 1505535722000,
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1063,10 +1063,10 @@
         {
             "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 342,
-            "modifiedTime": 1505534823000,
-            "changeTime": 1505534823000,
-            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391",
+            "size": 544,
+            "modifiedTime": 1505535340000,
+            "changeTime": 1505535340000,
+            "contentHash": "ab4b9f168d25c48924690b7062160f5e92a68eae",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1102,10 +1102,10 @@
         {
             "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1505534834000,
-            "changeTime": 1505534834000,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "size": 395,
+            "modifiedTime": 1505535376000,
+            "changeTime": 1505535376000,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1141,10 +1141,10 @@
         {
             "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "size": 127,
-            "modifiedTime": 1505534967000,
-            "changeTime": 1505534967000,
-            "contentHash": "79db0a7989eebbd5984cbb199aa7f373cc4a5395",
+            "size": 124,
+            "modifiedTime": 1505537389000,
+            "changeTime": 1505537389000,
+            "contentHash": "23b260883dbe75f347ffff3e8bc280c74d6164c1",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1217,40 +1217,170 @@
     [
         "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 210,
             "modifiedTime": 1505535645000,
             "changeTime": 1505535645000,
-            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259"
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/staticresources/leaflet.resource",
         {
-            "state": "u",
             "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/staticresources/leaflet.resource",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 374488,
             "modifiedTime": 1505535645000,
             "changeTime": 1505535645000,
-            "contentHash": "9acfd85fa1b2ef044659924459bc2c4ec9fb3dc0"
+            "contentHash": "9acfd85fa1b2ef044659924459bc2c4ec9fb3dc0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/staticresources",
         {
-            "state": "u",
             "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1505535645000,
             "changeTime": 1505535645000,
-            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa"
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1505535675000,
+            "changeTime": 1505535675000,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1505535232000,
+            "changeTime": 1505535232000,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "size": 334,
+            "modifiedTime": 1505536184000,
+            "changeTime": 1505536184000,
+            "contentHash": "df14e0782d0c703b15579aef1ba8c6efac91b6d5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1505535675000,
+            "changeTime": 1505535675000,
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1505535708000,
+            "changeTime": 1505535708000,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 810,
+            "modifiedTime": 1505537503000,
+            "changeTime": 1505537503000,
+            "contentHash": "4953795f16b0f4e81cdbb5ad582c42c55834a42e"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1505535675000,
+            "changeTime": 1505535675000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1505535675000,
+            "changeTime": 1505535675000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1505535277000,
+            "changeTime": 1505535277000,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "/Users/mcwhd/Documents/sfdxfjs/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1505535232000,
+            "changeTime": 1505535232000,
+            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
