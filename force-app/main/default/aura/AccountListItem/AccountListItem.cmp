@@ -1,0 +1,7 @@
+<aura:component>
+2
+  <aura:attribute name="account" type="Account"/>
+3
+  <li><a>{!v.account.Name}</a></li>
+4
+</aura:component>

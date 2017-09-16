@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "ABC Inc",
+            "Location__Latitude__s": 25.9029782,
+            "Location__Longitude__s": -80.3602968
+        }
+    ]
+}
